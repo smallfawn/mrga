@@ -7,7 +7,7 @@ on:
   workflow_dispatch:  # 允许手动触发
 
 env:
-  IMAGE_NAME: edge
+  IMAGE_NAME: mrga
 
 jobs:
   build-and-push:
